@@ -1,8 +1,8 @@
-# Design Document
+# Supermarket Database
 
 ### By Rian Vasconcelos dos Santos
 
-## Video overview: <URL HERE>
+## Video overview: <https://www.youtube.com/watch?v=Gisn2D5GZyo>
 
 ## Scope
 
